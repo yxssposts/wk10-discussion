@@ -1,1 +1,1 @@
-# wk10-discussion
+Week 11 JS Discussion
